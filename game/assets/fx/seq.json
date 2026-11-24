@@ -1,0 +1,72 @@
+{
+ "wind": {
+  "frames": 8,
+  "w": 256,
+  "h": 254,
+  "ms": 60,
+  "mode": "add"
+ },
+ "burst": {
+  "frames": 8,
+  "w": 256,
+  "h": 254,
+  "ms": 50,
+  "mode": "add"
+ },
+ "ice": {
+  "frames": 8,
+  "w": 320,
+  "h": 318,
+  "ms": 60,
+  "mode": "add"
+ },
+ "thunder": {
+  "frames": 8,
+  "w": 256,
+  "h": 512,
+  "ms": 60,
+  "mode": "add"
+ },
+ "fire": {
+  "frames": 8,
+  "w": 512,
+  "h": 576,
+  "ms": 70,
+  "mode": "add"
+ },
+ "light": {
+  "frames": 8,
+  "w": 320,
+  "h": 318,
+  "ms": 80,
+  "mode": "add"
+ },
+ "goldglow": {
+  "frames": 8,
+  "w": 256,
+  "h": 254,
+  "ms": 70,
+  "mode": "add"
+ },
+ "petals": {
+  "frames": 8,
+  "w": 256,
+  "h": 254,
+  "ms": 70,
+  "mode": "add"
+ },
+ "ring": {
+  "frames": 8,
+  "w": 256,
+  "h": 254,
+  "ms": 50,
+  "mode": "add"
+ },
+ "ink": {
+  "frames": 8,
+  "w": 512,
+  "h": 576,
+  "ms": 50,
+  "mode": "ink"
+ }
+}

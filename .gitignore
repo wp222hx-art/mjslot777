@@ -1,0 +1,15 @@
+# Godot 引擎缓存（打开工程时自动重建）
+game/.godot/
+
+# 历次演示截图（godot --path game -- shots=tools/shots 可重新生成）
+game/tools/shots*/
+
+# 临时补丁脚本与 Python 缓存
+game/tools/_patch_*.py
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

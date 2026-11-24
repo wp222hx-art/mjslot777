@@ -1,0 +1,15 @@
+# 文本统一用 LF（Godot 工程文件、脚本、着色器）
+* text=auto eol=lf
+
+# 超过 GitHub 50 MB 警告线的文件走 Git LFS
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# 二进制素材：不做换行转换、不做文本比较
+*.png binary
+*.jpg binary
+*.mp3 binary
+*.wav binary
+*.ogv binary
+*.ttf binary
+*.raw binary
